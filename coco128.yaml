@@ -1,0 +1,9 @@
+
+train: ../train_data/images/train/  # 153 images
+val: ../train_data/images/val/  # 20 images
+
+nc: 1
+
+# Classes
+names: ['face']
+ 
